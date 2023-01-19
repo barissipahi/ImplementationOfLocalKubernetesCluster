@@ -1,7 +1,7 @@
 # ImplementationOfLocalKubernetesCluster
 This Project Involves Implementation Of Local Kurbernetes Cluster
 
-Terraform kubernetes provider with minikube
+Terraform kubernetes and helm provider with minikube
 
 # Prerequisites
  - Vagrant
