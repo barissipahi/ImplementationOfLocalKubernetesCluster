@@ -22,7 +22,7 @@ sudo chmod +x Terraform_Install.sh
 
 ./Terraform_Install.sh
 
-# 2 : Creating folder to put required files for terraform
+# 3 : Creating folder to put required files for terraform
 
 mkdir terraform_project 
 
@@ -38,6 +38,6 @@ terraform plan
 
 terraform apply
 
-# Check if the pods,services etc. are created 
+# 4 Check if the pods,services etc. are created 
 
 kubectl get all -n applications-namespace
