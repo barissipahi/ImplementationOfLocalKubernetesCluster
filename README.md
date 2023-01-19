@@ -10,7 +10,7 @@ Terraform kubernetes provider with minikube
  - minikube 
  - kubectl 
 
-# Example 1 : Creating namespaces on local minikube cluster via terraform
+# Example 1 : Installing required softwares and dependencies for minikube
 
 sudo chmod +x dependencies.sh
 ./dependencies.sh
